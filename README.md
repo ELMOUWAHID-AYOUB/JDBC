@@ -22,9 +22,9 @@ Interface client:
 </h1>
 
 ![client](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/ead19e6d-ff62-4058-8a60-b5d21a0ca0e3)
-<h2>
+
 L'ajoute des clients:
-</h2>
+
 ![clientajouter](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/b9b07e62-e287-4725-9be4-2bb4ddf7c749)
 
 <h2>

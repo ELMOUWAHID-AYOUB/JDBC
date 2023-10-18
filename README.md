@@ -36,7 +36,8 @@ LModification des clients:
 ![clientmodifie](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/5de39b46-4b59-4f0b-8ac3-dfc300cc8419)
 
 
-Alerte de suppression:![clientsuppalert](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/fa2899d1-cc4f-4a71-993a-8b7ffc85a5bb)
+Alerte de suppression:
+![clientsuppalert](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/fa2899d1-cc4f-4a71-993a-8b7ffc85a5bb)
 
 
 La suppression des clients:

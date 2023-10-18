@@ -18,5 +18,5 @@ LES INTERFACES POUR LE PROJET:
 
 Interface client:
 
-<br>
+
 ![client](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/ead19e6d-ff62-4058-8a60-b5d21a0ca0e3)

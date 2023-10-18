@@ -85,5 +85,3 @@ Interface Recherche:
 <br>
 ![Recherche](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/6f469c83-bf66-4b1b-a893-3580ac117105)
 <br>
-
-

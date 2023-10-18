@@ -38,6 +38,7 @@ LModification des clients:
 
 Alerte de suppression:
 
+![clientalertsupp2](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/a31995d6-6862-496f-8b13-bfbe0779a2dc)
 
 La suppression des clients:
 
